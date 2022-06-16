@@ -8,5 +8,8 @@ namespace ConsoleApp1
 {
     class feature
     {
+
+
+        public int MyProperty { get; set; }
     }
 }
