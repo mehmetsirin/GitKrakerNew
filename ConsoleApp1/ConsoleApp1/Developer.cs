@@ -13,7 +13,7 @@ namespace ConsoleApp1
         string main1 = "main";
         int x = 10;
         int y = 1;
-
+        int sd;
 
 
 
