@@ -9,5 +9,7 @@ namespace ConsoleApp1
     class Developer
     {
         int x = 10;
+
+        public int MyProperty { get; set; }
     }
 }
