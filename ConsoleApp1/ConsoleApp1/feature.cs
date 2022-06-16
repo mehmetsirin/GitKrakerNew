@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Developer
+    class feature
     {
-        int x = 10;
-        int y = 1;
-        int xx = 1;
 
+
+        public int MyProperty { get; set; }
     }
 }
