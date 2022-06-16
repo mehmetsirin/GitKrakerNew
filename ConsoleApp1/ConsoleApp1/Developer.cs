@@ -8,14 +8,15 @@ namespace ConsoleApp1
 {
     class Developer
     {
+
+        string main = "main";
+        string main1 = "main";
         int x = 10;
         int y = 1;
 
 
 
 
-        string main = "main";
-        string main1 = "main";
 
     }
 }
