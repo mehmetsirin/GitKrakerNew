@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         int x = 10;
         int y = 1;
-       
+        string main = "main";
 
     }
 }
