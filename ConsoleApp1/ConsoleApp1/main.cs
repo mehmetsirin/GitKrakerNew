@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     class main
     {
+        int xx = 10;
     }
 }
