@@ -8,6 +8,6 @@ namespace ConsoleApp1
 {
     class Developer
     {
-        int x = 10;
+        int x = 1;
     }
 }
